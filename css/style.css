@@ -145,6 +145,8 @@ body {
 .signup {
     background-color: #F9FAF8;
     padding: 52px 150px;
+    display: flex;
+    justify-content: center;
     
 }
 
@@ -152,9 +154,10 @@ body {
     display: flex;
     background-color: #3882f6;
     border-radius: 5px;
-    padding: 26px 48px;
+    width: 800px;
+    height: 100px;
     justify-content: center;
-    align-self: center;
+    align-items: center;
     gap: 16px;
 }
 
