@@ -181,3 +181,10 @@ body {
     align-self: center;
     
 }
+
+footer {
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 15px;
+    color: #F9FAF8;
+}
